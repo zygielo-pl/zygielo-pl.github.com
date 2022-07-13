@@ -1,4 +1,4 @@
 source 'https://rubygems.org' do
-  gem 'github-pages', '~> 226', group: :jekyll_plugins
+  gem 'github-pages', '~> 227', group: :jekyll_plugins
 end
 
